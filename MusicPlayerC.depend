@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1498378226 source:d:\projects\musicplayer-using-c\musicplayerc\music_player_with_comments.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<dirent.h>
+	<conio.h>
+	"MMSystem.h"
+
